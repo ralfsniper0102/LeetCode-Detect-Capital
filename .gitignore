@@ -1,0 +1,15 @@
+# Ignorar arquivos do Visual Studio
+.vs/
+*.suo
+*.user
+*.vscode/
+
+# Ignorar binários e compilados
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Ignorar pacotes do NuGet
+packages/
